@@ -7,11 +7,11 @@ I am also working on desktop tools for the software integration of my hardware s
 Focused on building software tools to support hardware desing and high frequency data acquisition.
 Data analysis and using ML models to work with sensor data is my next goal.
 
-Skills: python (pandas, numpy, motplotlib, PyQt6, PyQtGraph, seaborn, scikit, tensorflow)
-        matlab (ode45, ode15)
-        c++ (arduino, redboard)
-        front-end Dev Stack (React.js, javascript, html, css, Plotly.js)
-        Back-end Dev Stack (FastAPI, RESTfulAPI, python)
+Skills: python (pandas, numpy, motplotlib, PyQt6, PyQtGraph, seaborn, scikit, tensorflow), 
+        matlab (ode45, ode15), 
+        c++ (arduino, redboard), 
+        Front end Dev Stack (React.js, javascript, html, css, Plotly.js), 
+        Back end Dev Stack (FastAPI, RESTfulAPI, python)
 
 <!---
 rmeza09/rmeza09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
